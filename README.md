@@ -1,5 +1,7 @@
 # ManualFig.ai
 
+[中文说明](#中文说明)
+
 <p align="center">
   <a href="https://manualfig.ai">
     <img src="https://manualfig.ai/logo.png" alt="ManualFig.ai logo" width="96" height="96" />
@@ -57,3 +59,22 @@ You can start from product photos, CAD screenshots, sketches, or procedure text,
 ## Repository note
 
 This repository is a public product profile for ManualFig.ai under TopLocalAI. It is not the application source repository.
+
+## 中文说明
+
+本仓库是产品说明书插图生成工具 ManualFig.ai 的公开产品介绍仓库（非应用源码仓库），ManualFig.ai 的官方网站是 [manualfig.ai](https://manualfig.ai)。
+
+### 能做什么
+
+- 从文字提示与参考图生成说明书风格的干净线稿、装配步骤和 IFU 面板插图。
+- 支持产品照片、CAD 截图、草图、已有说明书页和文字流程作为输入；上传格式为 PNG、JPEG、WebP，单次最多 3 张、单张小于 4MB。
+- 提供画布审阅、文字二次编辑与项目历史管理，支持下载 PNG，以及 PNG 转 SVG 或直接生成描边式可编辑 SVG。
+- 生成图为说明性辅助插图，非工程图纸、监管提交件或经认证安全文件。
+
+### 怎么用
+
+本仓库不含本地安装包，直接在网页端工作台使用：上传产品照片、CAD 截图或草图并输入流程说明，生成带标签、箭头、标注与警告提示的步骤插图，审阅编辑后导出 PNG 或 SVG。联系邮箱：`contact@manualfig.ai`。
+
+**价格**：订阅 Starter $30/月、$120/年，Pro $60/月、$240/年，Business $120/月、$480/年；终身版 $1999 一次性；积分包 $50 / 500 积分、$100 / 1000 积分、$200 / 2000 积分、$400 / 4000 积分（均 30 天过期）；默认每图 10 积分、每 SVG 10 积分；注册赠 10 积分（30 天过期），每日赠 10 积分（1 天过期），免费方案无订阅积分。
+
+**相关链接**：[ManualFig.ai 中文页](https://manualfig.ai/zh) · [官方网站](https://manualfig.ai) · [价格](https://manualfig.ai/pricing) · [博客](https://manualfig.ai/blog)
